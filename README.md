@@ -45,4 +45,4 @@ $ coming soon
 Isaac Ngeno - <isaac2ngeno5@gmail.com> 
 
 ### License
-coming soon.
+MIT License
